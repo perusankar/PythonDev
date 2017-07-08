@@ -13,3 +13,4 @@ def addFixedValue(a):
 print("Test")
 print(add(1,2))
 print(addFixedValue(1))
+print("Test")
